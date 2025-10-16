@@ -18,7 +18,7 @@ Počítej s tím, že *jméno* a *firma* budou vždy uvedené, stejně jako dva 
    * `firma`
    * `ulice`
    * `obecPsc`
-   * `celaAdresa` (readonly property, ve tvaru „`ulice`, `obecPsc`“)
+   * `celaAdresa` (readonly property, kerá bude vracet „vypočtenou“ adresu ve tvaru „`ulice`, `obecPsc`“)
    * `email`
    * `telefon`
    * `web`
